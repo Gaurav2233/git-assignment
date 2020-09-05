@@ -1,5 +1,7 @@
 # git-assignment
 
-Welcome to GitHub
+Welcome to GitHub Test
+
+Testing Conflicts
 
 Dev Branch Commit
